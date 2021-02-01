@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.0",
-  "homepage": "https://vegmedquotes.xyz/Dinesh-Pandikona/",
+  "homepage": "https://vegmedquotes.xyz/dineshpandikona/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Tesla-Atoz/Dinesh-Pandikona.git"
+    "url": "https://github.com/Tesla-Atoz/dineshpandikona.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
