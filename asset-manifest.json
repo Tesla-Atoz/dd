@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Dinesh-Pandikona/static/css/main.28570286.chunk.css",
+    "main.js": "/Dinesh-Pandikona/static/js/main.73218757.chunk.js",
+    "main.js.map": "/Dinesh-Pandikona/static/js/main.73218757.chunk.js.map",
+    "runtime-main.js": "/Dinesh-Pandikona/static/js/runtime-main.7fd3404f.js",
+    "runtime-main.js.map": "/Dinesh-Pandikona/static/js/runtime-main.7fd3404f.js.map",
+    "static/js/2.db636cfc.chunk.js": "/Dinesh-Pandikona/static/js/2.db636cfc.chunk.js",
+    "static/js/2.db636cfc.chunk.js.map": "/Dinesh-Pandikona/static/js/2.db636cfc.chunk.js.map",
+    "static/js/3.45a11a99.chunk.js": "/Dinesh-Pandikona/static/js/3.45a11a99.chunk.js",
+    "static/js/3.45a11a99.chunk.js.map": "/Dinesh-Pandikona/static/js/3.45a11a99.chunk.js.map",
+    "static/js/4.3bff773d.chunk.js": "/Dinesh-Pandikona/static/js/4.3bff773d.chunk.js",
+    "static/js/4.3bff773d.chunk.js.map": "/Dinesh-Pandikona/static/js/4.3bff773d.chunk.js.map",
+    "static/js/5.2f384cbc.chunk.js": "/Dinesh-Pandikona/static/js/5.2f384cbc.chunk.js",
+    "static/js/5.2f384cbc.chunk.js.map": "/Dinesh-Pandikona/static/js/5.2f384cbc.chunk.js.map",
+    "static/js/6.5444c418.chunk.js": "/Dinesh-Pandikona/static/js/6.5444c418.chunk.js",
+    "static/js/6.5444c418.chunk.js.map": "/Dinesh-Pandikona/static/js/6.5444c418.chunk.js.map",
+    "static/js/7.c6f7654f.chunk.js": "/Dinesh-Pandikona/static/js/7.c6f7654f.chunk.js",
+    "static/js/7.c6f7654f.chunk.js.map": "/Dinesh-Pandikona/static/js/7.c6f7654f.chunk.js.map",
+    "static/js/8.7a2ac07e.chunk.js": "/Dinesh-Pandikona/static/js/8.7a2ac07e.chunk.js",
+    "static/js/8.7a2ac07e.chunk.js.map": "/Dinesh-Pandikona/static/js/8.7a2ac07e.chunk.js.map",
+    "static/js/9.504af9d5.chunk.js": "/Dinesh-Pandikona/static/js/9.504af9d5.chunk.js",
+    "static/js/9.504af9d5.chunk.js.map": "/Dinesh-Pandikona/static/js/9.504af9d5.chunk.js.map",
+    "static/js/10.643b1f42.chunk.js": "/Dinesh-Pandikona/static/js/10.643b1f42.chunk.js",
+    "static/js/10.643b1f42.chunk.js.map": "/Dinesh-Pandikona/static/js/10.643b1f42.chunk.js.map",
+    "index.html": "/Dinesh-Pandikona/index.html",
+    "static/css/main.28570286.chunk.css.map": "/Dinesh-Pandikona/static/css/main.28570286.chunk.css.map",
+    "static/js/2.db636cfc.chunk.js.LICENSE.txt": "/Dinesh-Pandikona/static/js/2.db636cfc.chunk.js.LICENSE.txt",
+    "static/js/3.45a11a99.chunk.js.LICENSE.txt": "/Dinesh-Pandikona/static/js/3.45a11a99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fd3404f.js",
+    "static/js/3.45a11a99.chunk.js",
+    "static/css/main.28570286.chunk.css",
+    "static/js/main.73218757.chunk.js"
+  ]
+}
