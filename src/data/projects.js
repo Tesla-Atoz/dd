@@ -30,16 +30,16 @@ const data = [
   {
     title: 'Artificial Neural Networks (Classification)',
     subtitle: 'Predicts whether a bank customer leaves the bank or not',
-    link: 'https://github.com/Tesla-Atoz/Burger_project',
+    link: 'https://github.com/Tesla-Atoz/artificialneuralnetwork',
     image: '/images/projects/interactive gif.gif',
     date: '2020-2-4',
     desc:
-     'A deep learning project where the model predicts whether a bank customer exits or not based on his/her previous data using ',
+     'A deep learning project where the model predicts whether a bank customer exits or not based on his/her previous data  ',
   },
   {
     title: 'Artificial Neural Networks (Regression)',
     subtitle: 'Predict power values',
-    link: 'https://github.com/Tesla-Atoz/Burger_project',
+    link: 'https://github.com/Tesla-Atoz/neuralNetworkForRegressionProblem',
     image: '/images/projects/all_deviations.png',
     date: '2021-2-2',
     desc:
