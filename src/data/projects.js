@@ -32,7 +32,7 @@ const data = [
     subtitle: 'Predicts whether a bank customer leaves the bank or not',
     link: 'https://github.com/Tesla-Atoz/artificialneuralnetwork',
     image: '/images/projects/interactive gif.gif',
-    date: '2020-2-4',
+    date: '2021-2-4',
     desc:
      'A deep learning project where the model predicts whether a bank customer exits or not based on his/her previous data  ',
   },
